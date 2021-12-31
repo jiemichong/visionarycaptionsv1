@@ -1,0 +1,46 @@
+{
+    "captions": [
+        {
+            "index": 1,
+            "start": "00:00:01,920",
+            "end": "00:00:08,720",
+            "text": "The histogram above shows the distribution of calories for all orders."
+        },
+        {
+            "index": 2,
+            "start": "00:00:08,720",
+            "end": "00:00:14,480",
+            "text": "The spike around 1000 calories represents standard burrito orders"
+        },
+        {
+            "index": 3,
+            "start": "00:00:14,480",
+            "end": "00:00:22,480",
+            "text": "a meat burrito with typical additions cheese, salsa, lettuce, sour, cream, rice and beans."
+        },
+        {
+            "index": 4,
+            "start": "00:00:22,480",
+            "end": "00:00:30,160",
+            "text": "If you order a meat burrito at chipotle with these toppings, it's very likely to reach 1000 calories"
+        },
+        {
+            "index": 5,
+            "start": "00:00:30,160",
+            "end": "00:00:33,840",
+            "text": "but there's so much more to these data than the averages."
+        },
+        {
+            "index": 6,
+            "start": "00:00:33,840",
+            "end": "00:00:43,280",
+            "text": "Chipotle customers can and do order meals with fewer than 650 calories such as a cheese-free burrito bowl."
+        },
+        {
+            "index": 7,
+            "start": "00:00:43,280",
+            "end": "00:00:51,920",
+            "text": "On the other end of the spectrum about 1 in 10 meals have more than 1600 calories."
+        }
+    ]
+}

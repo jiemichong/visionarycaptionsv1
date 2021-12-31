@@ -1,0 +1,27 @@
+The histogram above
+shows the distribution of 
+calories for all orders.
+The spike around 
+1000 calories represents
+standard burrito orders
+a meat burrito 
+with typical additions
+cheese, salsa, lettuce, 
+sour-cream, rice and beans.
+If you order a 
+meat burrito at Chipotle
+with these toppings,
+it's very likely to 
+reach 1000 calories
+but there's so much 
+more to these data
+than the averages.
+Chipotle customers 
+can and do order meals 
+with fewer than 
+650 calories such as a 
+cheese-free burrito bowl.
+On the other end
+of the spectrum 
+about 1 in 10 meals 
+have more than 1600 calories.

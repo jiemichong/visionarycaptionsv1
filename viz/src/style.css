@@ -1,0 +1,11 @@
+div#caption-field {
+    font-family: Calibri, sans-serif;
+    font-size: 30px;
+}
+
+div#canvas {
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    pointer-events: none;
+    fill: #777;
+}

@@ -1,0 +1,6 @@
+Flask
+numpy
+pytest
+pytest-flask
+spacy
+json

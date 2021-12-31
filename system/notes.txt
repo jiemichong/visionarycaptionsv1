@@ -1,0 +1,33 @@
+#Working with SVG on VSCODE: 
+1. Install SVG extension
+-> ext:svg , then find SVG (created by Jock)
+
+Running code:
+python system/systemcode.py
+
+Code explanation:
+1. 3 Types of phrases accounted for:
+Spike/Mode: "The spike around 1000 calories"
+More: "one in 10 meals had more than 1600 calories"
+Less: "meals with fewer than 650 calories"
+
+2. 3 different methods for each type
+process_spike
+process_more
+process_less
+
+Each method will return:
+The x-y coordinates of the relevant bar
+
+3. Write the relevant coordinates of the highlight shapes into visualization/coordinates.txt
+    CIRCLE: x-coordinate of midpoint, y-coordinate of midpoint, radius
+    RECTANGLE: width, height, x-coordinate of upper-left corner, y-coordinate of upper-left corner
+
+4. Create a copy of the edited srt code and move it into visualization folder as visualization/output.srt
+
+Final output:
+A txt file (coordinates.txt) containing all the necessary coordinates.
+
+
+
+

@@ -1,0 +1,453 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="1050" height="500" fill="transparent" >
+    <g transform="translate(10,20)">
+        <g class="x axis" transform="translate(0,460)">
+            <g class="tick" transform="translate(9.58544839255499,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(27.01353637901861,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(44.441624365482234,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(61.86971235194585,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">200</text>
+            </g>
+            <g class="tick" transform="translate(79.29780033840947,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(96.7258883248731,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(114.1539763113367,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(131.58206429780034,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">400</text>
+            </g>
+            <g class="tick" transform="translate(149.01015228426394,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(166.4382402707276,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(183.86632825719119,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(201.29441624365484,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">600</text>
+            </g>
+            <g class="tick" transform="translate(218.72250423011843,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(236.15059221658203,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(253.57868020304568,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(271.00676818950933,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">800</text>
+            </g>
+            <g class="tick" transform="translate(288.4348561759729,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(305.8629441624365,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(323.2910321489002,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(340.71912013536377,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">1,000</text>
+            </g>
+            <g class="tick" transform="translate(358.1472081218274,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(375.575296108291,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(393.00338409475467,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(410.43147208121826,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">1,200</text>
+            </g>
+            <g class="tick" transform="translate(427.85956006768185,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(445.2876480541455,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(462.7157360406091,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(480.14382402707275,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">1,400</text>
+            </g>
+            <g class="tick" transform="translate(497.57191201353635,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(515,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(532.4280879864637,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(549.8561759729272,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">1,600</text>
+            </g>
+            <g class="tick" transform="translate(567.2842639593908,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(584.7123519458545,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(602.140439932318,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(619.5685279187817,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">1,800</text>
+            </g>
+            <g class="tick" transform="translate(636.9966159052453,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(654.424703891709,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(671.8527918781725,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(689.2808798646362,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">2,000</text>
+            </g>
+            <g class="tick" transform="translate(706.7089678510998,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(724.1370558375634,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(741.565143824027,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(758.9932318104907,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">2,200</text>
+            </g>
+            <g class="tick" transform="translate(776.4213197969543,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(793.8494077834179,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(811.2774957698815,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(828.7055837563452,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">2,400</text>
+            </g>
+            <g class="tick" transform="translate(846.1336717428087,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(863.5617597292724,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(880.989847715736,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(898.4179357021997,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">2,600</text>
+            </g>
+            <g class="tick" transform="translate(915.8460236886632,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(933.2741116751268,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(950.7021996615905,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(968.1302876480541,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777">2,800</text>
+            </g>
+            <g class="tick" transform="translate(985.5583756345177,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(1002.9864636209813,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+            <g class="tick" transform="translate(1020.414551607445,0)" style="opacity: 1;">
+                <line y2="4" x2="0" stroke="#F0F0F0" fill="none"></line><text y="6" x="0" dy=".71em"
+                    style="text-anchor: middle;" fill="#777777"></text>
+            </g>
+        </g>
+        <g class="y axis" transform="translate(1030,0)">
+            <g class="tick" transform="translate(0,29.697409326425202)" style="opacity: 1;">
+                <line x2="-1030" y2="0" stroke="#F0F0F0" fill="none"></line><text x="-1033" y="0" dy="-4"
+                    style="text-anchor: start;" fill="#777777">6% of meals</text>
+            </g>
+            <g class="tick" transform="translate(0,101.41450777202095)" style="opacity: 1;">
+                <line x2="-1030" y2="0" stroke="#F0F0F0" fill="none"></line><text x="-1033" y="0" dy="-4"
+                    style="text-anchor: start;" fill="#777777">5%</text>
+            </g>
+            <g class="tick" transform="translate(0,173.13160621761682)" style="opacity: 1;">
+                <line x2="-1030" y2="0" stroke="#F0F0F0" fill="none"></line><text x="-1033" y="0" dy="-4"
+                    style="text-anchor: start;" fill="#777777">4%</text>
+            </g>
+            <g class="tick" transform="translate(0,244.8487046632126)" style="opacity: 1;">
+                <line x2="-1030" y2="0" stroke="#F0F0F0" fill="none"></line><text x="-1033" y="0" dy="-4"
+                    style="text-anchor: start;" fill="#777777">3%</text>
+            </g>
+            <g class="tick" transform="translate(0,316.5658031088084)" style="opacity: 1;">
+                <line x2="-1030" y2="0" stroke="#F0F0F0" fill="none"></line><text x="-1033" y="0" dy="-4"
+                    style="text-anchor: start;" fill="#777777">2%</text>
+            </g>
+            <g class="tick" transform="translate(0,388.2829015544042)" style="opacity: 1;">
+                <line x2="-1030" y2="0" stroke="#F0F0F0" fill="none"></line><text x="-1033" y="0" dy="-4"
+                    style="text-anchor: start;" fill="#777777">1%</text>
+            </g>
+            <g class="tick g-baseline" transform="translate(0,460)" style="opacity: 1;">
+                <line x2="-1030" y2="0" stroke="#000000" fill="none"></line><text x="-1033" y="0" dy="-4"
+                    style="text-anchor: start;" fill="#777777">0%</text>
+            </g>
+            <path class="domain" d="M-1030,0H0V460H-1030"></path>
+        </g>
+        <g class="g-rect-container" transform="translate(1.742808798646362,0)">
+            <rect width="15.685279187817258" height="2.3834196891191937" y="457.6165803108808" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(19.17089678510998,0)">
+            <rect width="15.685279187817258" height="2.3834196891191937" y="457.6165803108808" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(36.598984771573605,0)">
+            <rect width="15.685279187817258" height="9.533678756476661" y="450.46632124352334" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(54.02707275803722,0)">
+            <rect width="15.685279187817258" height="50.0518134715025" y="409.9481865284975" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(71.45516074450084,0)">
+            <rect width="15.685279187817258" height="9.533678756476661" y="450.46632124352334" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(88.88324873096447,0)">
+            <rect width="15.685279187817258" height="28.60103626943004" y="431.39896373056996" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(106.31133671742808,0)">
+            <rect width="15.685279187817258" height="23.83419689119171" y="436.1658031088083" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(123.7394247038917,0)">
+            <rect width="15.685279187817258" height="59.585492227979216" y="400.4145077720208" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(141.16751269035532,0)">
+            <rect width="15.685279187817258" height="109.63730569948166" y="350.36269430051834" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(158.59560067681895,0)">
+            <rect width="15.685279187817258" height="78.65284974093231" y="381.3471502590677" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(176.02368866328257,0)" >
+            <rect width="15.685279187817258" height="128.70466321243487" y="331.29533678756513" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(193.4517766497462,0)">
+            <rect width="15.685279187817258" height="243.10880829015548" y="216.89119170984452" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(210.8798646362098,0)">
+            <rect width="15.685279187817258" height="204.97409326424838" y="255.02590673575162" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(228.3079526226734,0)">
+            <rect width="15.685279187817258" height="367.0466321243521" y="92.95336787564793" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(245.73604060913704,0)">
+            <rect width="15.685279187817258" height="226.42487046632112" y="233.57512953367888" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(263.1641285956007,0)">
+            <rect width="15.685279187817258" height="247.87564766839384" y="212.12435233160616" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(280.5922165820643,0)">
+            <rect width="15.685279187817258" height="331.29533678756445" y="128.70466321243555" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(298.0203045685279,0)">
+            <rect width="15.685279187817258" height="460" y="0" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(315.4483925549915,0)">
+            <rect width="15.685279187817258" height="429.0155440414507" y="30.98445595854929" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(332.8764805414551,0)">
+            <rect width="15.685279187817258" height="431.39896373056956" y="28.601036269430438" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(350.3045685279188,0)">
+            <rect width="15.685279187817258" height="314.61139896373" y="145.38860103627002" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(367.73265651438237,0)">
+            <rect width="15.685279187817258" height="309.8445595854917" y="150.1554404145083" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(385.160744500846,0)">
+            <rect width="15.685279187817258" height="369.4300518134708" y="90.56994818652919" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(402.5888324873096,0)">
+            <rect width="15.685279187817258" height="286.0103626943003" y="173.98963730569972" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(420.0169204737732,0)">
+            <rect width="15.685279187817258" height="362.27979274611374" y="97.72020725388626" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(437.44500846023686,0)">
+            <rect width="15.685279187817258" height="300.3108808290151" y="159.6891191709849" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(454.87309644670046,0)">
+            <rect width="15.685279187817258" height="231.19170984455943" y="228.80829015544057" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(472.3011844331641,0)">
+            <rect width="15.685279187817258" height="216.89119170984452" y="243.10880829015548" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(489.7292724196277,0)">
+            <rect width="15.685279187817258" height="193.05699481865298" y="266.943005181347" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(507.15736040609136,0)">
+            <rect width="15.685279187817258" height="143.00518134715048" y="316.9948186528495" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(524.585448392555,0)">
+            <rect width="15.685279187817258" height="169.22279792746076" y="290.77720207253924" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(542.0135363790185,0)">
+            <rect width="15.685279187817258" height="247.87564766839384" y="212.12435233160616" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(559.4416243654822,0)">
+            <rect width="15.685279187817258" height="92.95336787564793" y="367.0466321243521" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(576.8697123519459,0)">
+            <rect width="15.685279187817258" height="102.48704663212459" y="357.5129533678754" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(594.2978003384094,0)">
+            <rect width="15.685279187817258" height="78.65284974093231" y="381.3471502590677" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(611.725888324873,0)">
+            <rect width="15.685279187817258" height="81.03626943005185" y="378.96373056994815" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(629.1539763113367,0)">
+            <rect width="15.685279187817258" height="23.83419689119171" y="436.1658031088083" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(646.5820642978003,0)">
+            <rect width="15.685279187817258" height="50.0518134715025" y="409.9481865284975" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(664.0101522842639,0)">
+            <rect width="15.685279187817258" height="40.51813471502584" y="419.48186528497416" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(681.4382402707275,0)">
+            <rect width="15.685279187817258" height="42.90155440414509" y="417.0984455958549" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(698.8663282571912,0)">
+            <rect width="15.685279187817258" height="23.83419689119171" y="436.1658031088083" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(716.2944162436547,0)">
+            <rect width="15.685279187817258" height="4.7668393782383305" y="455.23316062176167" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(733.7225042301184,0)">
+            <rect width="15.685279187817258" height="4.7668393782383305" y="455.23316062176167" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(751.150592216582,0)">
+            <rect width="15.685279187817258" height="4.7668393782383305" y="455.23316062176167" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(768.5786802030457,0)">
+            <rect width="15.685279187817258" height="2.3834196891191937" y="457.6165803108808" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(786.0067681895092,0)">
+            <rect width="15.685279187817258" height="11.917098445595798" y="448.0829015544042" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(803.4348561759729,0)">
+            <rect width="15.685279187817258" height="7.150259067357524" y="452.8497409326425" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(820.8629441624365,0)">
+            <rect width="15.685279187817258" height="2.3834196891191937" y="457.6165803108808" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(838.2910321489001,0)">
+            <rect width="15.685279187817258" y="460" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(855.7191201353637,0)">
+            <rect width="15.685279187817258" y="460" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(873.1472081218274,0)">
+            <rect width="15.685279187817258" height="7.150259067357524" y="452.8497409326425" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(890.575296108291,0)">
+            <rect width="15.685279187817258" y="460" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(908.0033840947546,0)">
+            <rect width="15.685279187817258" y="460" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(925.4314720812182,0)">
+            <rect width="15.685279187817258" y="460" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(942.8595600676819,0)">
+            <rect width="15.685279187817258" y="460" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(960.2876480541455,0)">
+            <rect width="15.685279187817258" y="460" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(977.715736040609,0)">
+            <rect width="15.685279187817258" y="460" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(995.1438240270727,0)">
+            <rect width="15.685279187817258" y="460" fill="#9E4B6C"></rect>
+        </g>
+        <g class="g-rect-container" transform="translate(1012.5719120135363,0)">
+            <rect width="15.685279187817258" height="2.3834196891191937" y="457.6165803108808" fill="#9E4B6C"></rect>
+        </g>
+        <!-- <line class="g-anno-line" x1="681.4382402707275" x2="681.4382402707275" y1="0" y2="460" stroke="#000000"></line> -->
+        <text class="g-dv-anno" x="691.4382402707275" y="10">Recommended dietary allowance</text><text class="g-dv-anno"
+            x="691.4382402707275" y="25">2,000 calories</text>
+    </g>
+</svg>

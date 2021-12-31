@@ -1,0 +1,27 @@
+1
+00:00:01,920 --> 00:00:08,720
+The histogram above shows the distribution of calories for all orders.
+
+2
+00:00:08,720 --> 00:00:14,480
+\boldThe\bold \boldspike\bold \boldaround\bold \bold1000\bold \boldcalories\bold represents standard burrito orders
+
+6
+00:00:14,480 --> 00:00:22,480
+a meat burrito with typical additions cheese, salsa, lettuce, sour, cream, rice and beans.
+
+9
+00:00:22,480 --> 00:00:30,160
+If you order a meat burrito at chipotle with these toppings, it's very likely to reach 1000 calories
+
+12
+00:00:30,160 --> 00:00:33,840
+but there's so much more to these data than the averages.
+
+14
+00:00:33,840 --> 00:00:43,280
+Chipotle customers can and do order meals with \boldfewer\bold \boldthan\bold \bold650\bold calories such as a cheese-free burrito bowl.
+
+18
+00:00:43,280 --> 00:00:51,920
+On the other end of the spectrum about \bold1\bold \boldin\bold \bold10\bold \boldmeals\bold have \boldmore\bold \boldthan\bold \bold1600\bold \boldcalories\bold .
